@@ -1,7 +1,10 @@
-/**
- * Implement Gatsby's SSR (Server Side Rendering) APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/ssr-apis/
- */
+import React from 'react';
 
-// You can delete this file if you're not using it
+export const onRenderBody = ({ setHeadComponents }) => {
+  setHeadComponents([
+    <link rel="preconnect" href="https://www.google-analytics.com" />,
+    <link rel="preconnect" href="https://marketingplatform.google.com" />,
+    <link rel="preconnect" href="https://google.com" />,
+    <link rel="preconnect" href="https://www.google.com" />,
+  ]);
+};

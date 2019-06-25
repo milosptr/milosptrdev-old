@@ -1,19 +1,20 @@
-import React from 'react'
-import { Link } from 'gatsby'
+import React from 'react';
 
-import Layout from '../components/layout'
-import Image from '../components/image'
+import Layout from '../components/layout/layout';
+
+// Sections
+import Home from '../sections/home';
+import About from '../sections/about';
+import Portfolio from '../sections/portfolio';
+import Contact from '../sections/contact';
 
 const IndexPage = () => (
   <Layout>
-    <h1>
-      <marquee direction="right">Hello from Gatsby on Now 2.0</marquee>
-    </h1>
-    <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Home />
+    <About />
+    <Portfolio />
+    <Contact />
   </Layout>
-)
+);
 
-export default IndexPage
+export default IndexPage;
