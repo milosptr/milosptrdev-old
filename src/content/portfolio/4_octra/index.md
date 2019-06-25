@@ -1,6 +1,6 @@
 ---
 title: 'One Click Travel'
-live: 'https://github.com/milosptr/octra'
+live: ''
 source: 'https://github.com/milosptr/octra'
 stack: 'Laravel & ReactJS'
 image: 'octra.png'
