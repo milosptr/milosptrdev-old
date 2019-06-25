@@ -168,10 +168,12 @@ const PortfolioItem = ({ portfolio }) => {
           <Text dangerouslySetInnerHTML={{ __html: portfolio.html }} />
           <Stack>{stack}</Stack>
           <ButtonsWrapper>
+            { live ?
             <ButtonLink target="_blank" solid href={live} rel="noreferrer">
               <StyledIcon icon={faLink} />
               Visit
             </ButtonLink>
+            : null }
             <ButtonLink target="_blank" href={source} rel="noreferrer">
               <StyledIcon icon={faGithub} />
               Source
