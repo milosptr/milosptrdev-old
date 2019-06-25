@@ -1,6 +1,6 @@
 ---
 title: 'Alphabet Reflex Game'
-live: 'https://github.com/milosptr/alphabet-reflex-game-js'
+live: ''
 source: 'https://github.com/milosptr/alphabet-reflex-game-js'
 stack: 'Laravel & ReactJS'
 image: 'letter-game.png'

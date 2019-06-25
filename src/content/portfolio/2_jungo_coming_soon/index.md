@@ -1,6 +1,6 @@
 ---
 title: 'Jungo Coming Soon'
-live: 'https://github.com/milosptr/jungo_coming-soon'
+live: ''
 source: 'https://github.com/milosptr/jungo_coming-soon'
 stack: 'HTML & CSS'
 image: 'coming-soon.png'
