@@ -9,7 +9,7 @@ module.exports = {
       linkedin: 'petrovic-milos',
       facebook: 'shomyp',
       github: 'milosptr',
-      email: 'hello@milosptr.dev',
+      email: 'milosptr@hotmail.com',
     },
     // name of the image for social website share, should be in static folder
     imageShare: `share.jpg`,
