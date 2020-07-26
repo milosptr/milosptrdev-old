@@ -3,7 +3,7 @@ stack: 'HTML5 - CSS3 - JAVASCRIPT - VueJS - ReactJS - NativeScript - Laravel - P
 creativeCurriculum: 'resume.pdf'
 ---
 
-I’m <span>Milos</span> , a 22 years old self-taught <span>Full Stack</span> developer , from <span>Serbia</span> .
+I’m <span>Milos</span> , a 23 years old self-taught <span>Full Stack</span> developer , from <span>Serbia</span> .
 
 After my high school, I got a job as a web developer, where I stayed 1 year. For whole year I created over 100 simple HTML & CSS websites following given designs, developed up to 15 WordPress websites (few with custom theme and others were purchased). After 1 year I realized that I’m _stuck_ and _sinking_, that I am _not learning anything_.
 

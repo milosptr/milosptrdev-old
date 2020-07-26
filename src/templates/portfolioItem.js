@@ -174,10 +174,12 @@ const PortfolioItem = ({ portfolio }) => {
               Visit
             </ButtonLink>
             : null }
+            { source ?
             <ButtonLink target="_blank" href={source} rel="noreferrer">
               <StyledIcon icon={faGithub} />
               Source
             </ButtonLink>
+              : null }
           </ButtonsWrapper>
         </Content>
         <Image fluid={image.childImageSharp.fluid} />
