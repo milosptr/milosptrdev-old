@@ -1,6 +1,6 @@
 ---
 stack: 'HTML5 - CSS3 - JAVASCRIPT - VueJS - ReactJS - NativeScript - Laravel - PHP - WordPress - OctoberCMS'
-creativeCurriculum: 'resume.pdf'
+creativeCurriculum: 'PetrovicMilosCV.pdf'
 ---
 
 I’m <span>Milos</span> , a 23 years old self-taught <span>Full Stack</span> developer , from <span>Serbia</span> .
